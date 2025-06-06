@@ -9,3 +9,5 @@
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviCarvalhoAz&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCarvalhoAz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
